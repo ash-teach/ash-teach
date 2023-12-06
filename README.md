@@ -6,4 +6,9 @@
 
 📫 Reach me at ashley.blacquiere@nic.bc.ca
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ash-teach/langs)](https://githubtrends.io)
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/ash-teach/langs" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/ash-teach/repos" />
+</a>
